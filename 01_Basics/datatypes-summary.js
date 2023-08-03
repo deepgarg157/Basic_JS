@@ -40,14 +40,14 @@ const myFunction = function(){
 
 // =====================Stack & Heap concept===================
 
-// stack
+// stack is the copy of the original variable
 let name1="Deepgarg";
 let anotherName=name1;
 anotherName="deepgarg157";
 console.log(name1);
 console.log(anotherName);
 
-// heap
+// heap take the reference form the original variable
 
 let Userone={
     email:"deep@gmail.com",
