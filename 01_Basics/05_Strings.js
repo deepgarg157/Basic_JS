@@ -4,7 +4,7 @@
 
  console.log(`hello ${firstName}${fullName} welcome to my coding world`);
 
-// This is a object 
+// This is a new object 
  let newName=new String("Deepanshu Garg");
  console.log(newName)
 
