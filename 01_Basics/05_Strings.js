@@ -35,7 +35,7 @@
  console.log(sentence.at(5));
  console.log(sentence.at(-6))
 
-
+console.log(sentence);
 
 
 
