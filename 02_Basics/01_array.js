@@ -10,7 +10,7 @@ const myArray=[0, 1, 2, 3, 4, 5]
 
 const newArray=new Array(0, 1, 2, 3, 4, 5)
 
-// ===============methods in array===================
+// ===============methods in array====================
 myArray.push(6)
 myArray.pop(6)
 // console.log(myArray)
