@@ -21,13 +21,12 @@ JSuser.email="deepgarg777@gmail.com"
 // console.log(JSuser.email);
 
 
-
 JSuser.greeting=function(){
     console.log("Hello user");
 }
 
 JSuser.greetingNew=function(){
-    console.log(`hello user ${this["full name"]}`);
+   console.log(`hello user ${this["full name"]}`);
 }
 
 console.log(JSuser.greeting());
