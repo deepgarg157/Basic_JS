@@ -1,5 +1,5 @@
 const myArray=[0, 1, 2, 3, 4, 5]
-// console.log(Array)
+// console.log(typeof myArray)
 
 // console.log(Array[0])
 // console.log(Array[1])
@@ -9,6 +9,7 @@ const myArray=[0, 1, 2, 3, 4, 5]
 // console.log(Array[5])
 
 const newArray=new Array(0, 1, 2, 3, 4, 5)
+console.log(typeof newArray)
 
 // ===============methods in array====================
 myArray.push(6)
