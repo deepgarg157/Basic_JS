@@ -48,7 +48,7 @@ const another_array=[1, 2, 3, 4, [5, 6, 7], 8, 9, [10, 11, 12]]
 const another_new_array=another_array.flat(Infinity)
 // console.log(another_new_array);
 
-// console.log(Array.isArray("Deepanshu"))
+console.log(Array.isArray("Deepanshu"))
 
 // console.log(Array.from("Deepanshu")); 
 // output['D', 'e', 'e','p', 'a', 'n','s', 'h', 'u']
@@ -60,4 +60,4 @@ let num1=100
 let num2=200
 let num3=300
 
-console.log(Array.of(num1,num2,num3));
+// console.log(Array.of(num1,num2,num3));
