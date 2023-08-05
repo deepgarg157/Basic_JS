@@ -12,3 +12,5 @@ let anynum1=undefined
 console.table([accountID, accountEmail, accountPassword, accountcity, accountState, anynum, anynum1]);
 
 console.log([typeof accountID, typeof accountEmail, typeof accountPassword, typeof accountcity,typeof accountState, typeof anynum, typeof anynum1])
+
+// typeof is used to check the datatype 
