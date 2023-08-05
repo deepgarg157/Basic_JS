@@ -10,6 +10,7 @@ const myArray=[0, 1, 2, 3, 4, 5]
 
 const newArray=new Array(0, 1, 2, 3, 4, 5)
 console.log(typeof newArray)
+// type of array is object
 
 // ===============methods in array====================
 myArray.push(6)

@@ -9,7 +9,7 @@
 // const allHeros = marvel_heros.concat(dc_heros)
 // console.log(allHeros);
 
-// const all_new_heros = [...marvel_heros, ...dc_heros]
+// const all_new_heros = [...marvel_heros, ...dc_heros] // sprid through ...is the key
 
 // console.log(all_new_heros);
 

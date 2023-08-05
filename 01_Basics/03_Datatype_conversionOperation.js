@@ -40,7 +40,7 @@ console.log(`a:${a},b:${b}`);
 
 // ============================Conversions================================
 
-let score1 = "hitesh"
+let score1 = "Deep"
 
 //console.log(typeof score1);
 //console.log(typeof(score1));
@@ -54,7 +54,7 @@ let valueInNumber1 = Number(score1)
 // "33abc" => NaN
 //  true => 1; false => 0
 
-let isLoggedIn = "hitesh"
+let isLoggedIn = "Deepanshu"
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 //  console.log(booleanIsLoggedIn);

@@ -10,7 +10,7 @@
 
 //  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/blink
 
-//  String Functions
+//  String Functions (prototype)
  console.log(newName.length)
  console.log(newName.indexOf('e'))
  console.log(newName.lastIndexOf('h'))

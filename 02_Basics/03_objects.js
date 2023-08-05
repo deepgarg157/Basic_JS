@@ -11,6 +11,7 @@ const JSuser={
     isLoggedIN:false,
     lastDaysLogged:["Monday","Tuesday"],
     [mySym]:"myKey1"
+    //[mySym] is the symbol datatype
 }
 
 // console.log(JSuser.email);

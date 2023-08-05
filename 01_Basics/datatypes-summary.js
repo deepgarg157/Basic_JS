@@ -1,4 +1,4 @@
-//  Primitive
+//===============Primitive==========================
 
 //  7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt
 
@@ -18,7 +18,7 @@ const anotherId = Symbol('123')
 
 
 
-// Reference (Non primitive)
+//===============Reference (Non primitive)==============
 
 // Array, Objects, Functions
 
