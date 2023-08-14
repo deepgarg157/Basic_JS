@@ -1,3 +1,5 @@
+// for each loops in java script
+
 const coding = ["js", "ruby", "java", "python", "cpp"]
 
 // coding.forEach( function (val){
