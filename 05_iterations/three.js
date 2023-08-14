@@ -14,7 +14,7 @@ for (const greet of greetings) {
     //console.log(`Each char is ${greet}`)
 }
 
-// Maps
+// Maps, filters, reduce in Java Script...
 
 const map = new Map()
 map.set('IN', "India")
